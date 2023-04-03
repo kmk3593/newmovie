@@ -1,0 +1,5 @@
+JvmtiExport can_access_local_variables 1
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 0 ciObject found
+compile org/eclipse/jdt/internal/compiler/ast/SingleMemberAnnotation <init> (Lorg/eclipse/jdt/internal/compiler/ast/TypeReference;I)V -1 3
